@@ -55,6 +55,7 @@ import * as $$$$$$43 from "./sections/Product/Wishlist.tsx";
 import * as $$$$$$44 from "./sections/Social/InstagramPosts.tsx";
 import * as $$$$$$45 from "./sections/Social/WhatsApp.tsx";
 import * as $$$$$$46 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$47 from "./sections/Weather/Widget.tsx";
 
 const manifest = {
   "loaders": {
@@ -66,11 +67,9 @@ const manifest = {
   "sections": {
     "deco-sites/fires/sections/Animation/Animation.tsx": $$$$$$0,
     "deco-sites/fires/sections/Cards/IconCardsCarousel.tsx": $$$$$$1,
-    "deco-sites/fires/sections/Cards/IconCardsCarouselWithImage.tsx":
-      $$$$$$2,
+    "deco-sites/fires/sections/Cards/IconCardsCarouselWithImage.tsx": $$$$$$2,
     "deco-sites/fires/sections/Cards/ImageCardsCarousel.tsx": $$$$$$3,
-    "deco-sites/fires/sections/Cards/ImageCardsCarouselWithImage.tsx":
-      $$$$$$4,
+    "deco-sites/fires/sections/Cards/ImageCardsCarouselWithImage.tsx": $$$$$$4,
     "deco-sites/fires/sections/Category/CategoryBanner.tsx": $$$$$$5,
     "deco-sites/fires/sections/Category/CategoryGrid.tsx": $$$$$$6,
     "deco-sites/fires/sections/Category/CategoryList.tsx": $$$$$$7,
@@ -101,8 +100,7 @@ const manifest = {
     "deco-sites/fires/sections/Miscellaneous/CookieConsent.tsx": $$$$$$32,
     "deco-sites/fires/sections/Miscellaneous/Slide.tsx": $$$$$$33,
     "deco-sites/fires/sections/Newsletter/Newsletter.tsx": $$$$$$34,
-    "deco-sites/fires/sections/Product/ImageGalleryFrontBack.tsx":
-      $$$$$$35,
+    "deco-sites/fires/sections/Product/ImageGalleryFrontBack.tsx": $$$$$$35,
     "deco-sites/fires/sections/Product/NotFound.tsx": $$$$$$36,
     "deco-sites/fires/sections/Product/NotFoundChallenge.tsx": $$$$$$37,
     "deco-sites/fires/sections/Product/ProductDetails.tsx": $$$$$$38,
@@ -114,6 +112,7 @@ const manifest = {
     "deco-sites/fires/sections/Social/InstagramPosts.tsx": $$$$$$44,
     "deco-sites/fires/sections/Social/WhatsApp.tsx": $$$$$$45,
     "deco-sites/fires/sections/Theme/Theme.tsx": $$$$$$46,
+    "deco-sites/fires/sections/Weather/Widget.tsx": $$$$$$47,
   },
   "apps": {
     "deco-sites/fires/apps/decohub.ts": $$$$$$$$$$$0,
